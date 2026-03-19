@@ -1,16 +1,16 @@
-## Hi there 👋
+# naxytra
 
-<!--
-**naxytra/naxytra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine-native proof and commerce infrastructure for agentic transactions.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [xoonya](https://github.com/naxytra/xoonya)  
+  Deterministic proof for machine actions: canonical events, receipts, proof bundles, and verification.
+
+- [xytara](https://github.com/naxytra/xytara)  
+  Machine commerce for agents: discover, quote, pay, execute, deliver, inspect, and integrate adapters.
+
+## Packages
+
+- [xoonya on npm](https://www.npmjs.com/package/xoonya)
+- [xytara on npm](https://www.npmjs.com/package/xytara)
